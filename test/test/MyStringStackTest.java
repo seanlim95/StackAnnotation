@@ -28,9 +28,7 @@ public class MyStringStackTest extends TestCase {
 	@After
 	public void tearDown() throws Exception {
 	}
-
-	[1:48 PM] Lian Kai Ng (NCS)
-    
+ 
 @Test
 public void testPush() {
 String o1 = null;
